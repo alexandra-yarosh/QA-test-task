@@ -1,5 +1,5 @@
 # QA-test-task
-This repository contains the solution for QA Case stady saved in bonial-qa-api.docx file
+This repository contains the solution for QA Case stady saved in initial-task.docx file
 
 
 **Task 1. SQL query.pdf** - file with a solution for 1st task 
