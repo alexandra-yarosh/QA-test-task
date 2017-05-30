@@ -7,7 +7,7 @@ This repository contains the solution for QA Case stady saved in initial-task.do
 **Task 2. Medium API - Test session report.pdf** - test plan and result of a manual test session for task #2 in bonial-qa-api.docx file
 
 ## Medium.com API auto-tests
-This folder contains automated tests for tags test cases for POST /post, and also one test for GET /me end points
+**mediumapitest** folder contains automated tests for tags test cases for POST /post, and also one test for GET /me end points
 
 ### How to start
 
