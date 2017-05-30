@@ -19,4 +19,4 @@ mvn test -P AllApiTests - to run all available tests
 mvn test -P TagsTest - to run test only for Tags suite
 ```
 
-To edit or extend test use any developer IDE you prefer
+To edit or extend test suits use any developer IDE you prefer.
